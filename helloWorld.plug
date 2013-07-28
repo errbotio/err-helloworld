@@ -4,3 +4,6 @@ Module = helloWorld
     
 [Documentation]
 Description = let's say hello !
+
+[Python]
+Version = 2+
