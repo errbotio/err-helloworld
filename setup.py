@@ -15,7 +15,7 @@ setup(
     include_package_data=True,
     entry_points={
         "errbot.plugins": [
-            "helloworld = helloWorld:HelloWorld",
+            "helloworld = helloworld:HelloWorld",
         ]
     },
 )
